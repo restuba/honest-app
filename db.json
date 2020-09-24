@@ -1,0 +1,31 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Nama 1",
+      "slug": "makeup as",
+      "desc": "Talk about touch-and-glow! Bring out a dewy, natural glow with our sheer crème blush that builds with every blend for an instant pop of color.",
+      "category": "Beauty",
+      "price": 12.99,
+      "imgUrl": "https://raw.githubusercontent.com/restuba/learnAPI/master/thumb1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Creme Cheek Blush, Peony Pink",
+      "slug": "makeup s",
+      "desc": "Talk about touch-and-glow! Bring out a dewy, natural glow with our sheer crème blush that builds with every blend for an instant pop of color.",
+      "category": "Make Up",
+      "price": 12.99,
+      "imgUrl": "https://raw.githubusercontent.com/restuba/learnAPI/master/thumb2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Lip Crayon - Lush Sheer, Rose",
+      "slug": "makeup",
+      "desc": "Lock in high-impact color with our glide-on-the-go sheer lip crayon. Offered in eight kissable colors, the satiny soft lip crayon delivers a luscious, satin finish. ",
+      "category": "Make Up",
+      "price": 12.99,
+      "imgUrl": "https://raw.githubusercontent.com/restuba/learnAPI/master/thumb3.jpg"
+    }
+  ]
+}
